@@ -33,7 +33,10 @@ I use Python and other computational tools for data acquisition, measurement ana
 
 - **Mayworm, R. C., et al. (2025).** *The Kibble balance of the Ultrasound Laboratory of Inmetro*. **Acta IMEKO**. [DOI](https://doi.org/10.21014/actaimeko.v14i2.1946).
 - **Mayworm, R. C., et al. (2022).** *Ultrasonic power measurement by Kibble balance*. **Measurement**. [DOI](https://doi.org/10.1016/j.measurement.2022.111788).
+- **Mayworm, R. C., Alvarenga, A. V., & Costa-Felix, R. P. B. (2021).** *A metrological approach to the time of flight diffraction method (ToFD)*. **Measurement**, 167, 108298. [DOI](https://doi.org/10.1016/j.measurement.2020.108298).
 - **Mayworm, R. C., et al. (2019).** *Tempo de Voo da Onda Difratada (ToFD) Auxilia na Garantia da Qualidade da Produção de Peças e Estruturas Mecânicas*. **Soldagem & Inspeção**. [DOI](https://doi.org/10.1590/0104-9224/SI24.27).
+- **Mayworm, R. C., Costa-Félix, R. P. B., & Alvarenga, A. V. (2016).** *Aspectos Metrológicos da Técnica Tempo de Voo da Onda Difratada (ToFD) para Utilização em Ensaios Não Destrutivos (ENDs) por Ultrassom*. **Soldagem & Inspeção**, 21(4), 406–416. [DOI](https://doi.org/10.1590/0104-9224/SI2104.02).
+- **Mayworm, R. C., Alvarenga, A. V., & Costa-Felix, R. P. B. (2015).** *A Metrological Based Realization of Time-of-Flight Diffraction Technique*. **Physics Procedia**, 70, 590–593. [DOI](https://doi.org/10.1016/j.phpro.2015.08.029).
 
 ## Connect
 
