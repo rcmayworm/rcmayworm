@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a mechanical engineer with an MSc and a PhD in **Metrology**. My research and technical experience focus on ultrasound metrology, scientific instrumentation, measurement uncertainty, automated experimental systems, and signal processing.
+I am a mechanical engineer with an MSc and a PhD in Metrology. My research and technical experience focus on ultrasound metrology, scientific instrumentation, measurement uncertainty, automated experimental systems, and signal processing.
 
 I use Python and other computational tools for data acquisition, measurement analysis, simulation and experimental automation. I am also studying machine learning and optimization methods for measurement applications.
 
