@@ -6,18 +6,18 @@
 
 ## About me
 
-I am a mechanical engineer with an MSc in **Metrology and Quality** and a PhD in **Metrology**. My research and technical experience focus on ultrasound metrology, scientific instrumentation, measurement uncertainty, automated experimental systems, and signal processing.
+I am a mechanical engineer with an MSc and a PhD in **Metrology**. My research and technical experience focus on ultrasound metrology, scientific instrumentation, measurement uncertainty, automated experimental systems, and signal processing.
 
-I use Python and other computational tools for data acquisition, measurement analysis, simulation, and experimental automation. I am also studying machine learning and optimization methods for measurement applications.
+I use Python and other computational tools for data acquisition, measurement analysis, simulation and experimental automation. I am also studying machine learning and optimization methods for measurement applications.
 
 *Em português:* Sou engenheiro mecânico, mestre em Metrologia e Qualidade e doutor em Metrologia. Trabalho com ultrassom, instrumentação científica, automação de medições, processamento de sinais e avaliação da incerteza de medição.
 
 ## Research & technical interests
 
-- **Ultrasound metrology:** hydrophone calibration, acoustic field characterization, ultrasonic power, and nondestructive testing (ToFD).
-- **Measurement science:** measurement uncertainty, calibration, traceability, and statistical evaluation of measurement systems.
-- **Instrumentation and automation:** data acquisition, instrument integration, experimental control, and signal processing.
-- **Scientific computing:** Python-based analysis, simulations, regression, and optimization.
+- **Ultrasound metrology:** hydrophone calibration, acoustic field characterization, ultrasonic power and nondestructive testing (ToFD).
+- **Measurement science:** measurement uncertainty, calibration, traceability and statistical evaluation of measurement systems.
+- **Instrumentation and automation:** data acquisition, instrument integration, experimental control and signal processing.
+- **Scientific computing:** Python-based analysis, simulations, regression and optimization.
 - **Machine learning for measurements:** an area of ongoing study and research, with validation specific to each application.
 
 ## Programming, tools & methods
