@@ -47,6 +47,6 @@ I use Python and other computational tools for data acquisition, measurement ana
 
 ## Website & future repositories
 
-My academic website is [rcmayworm.github.io](rcmayworm.github.io). This profile will link to verified research software, reproducible examples, and open educational materials when they are ready and authorized for release.
+My academic website is [rcmayworm.github.io](https://rcmayworm.github.io/). This profile will link to verified research software, reproducible examples, and open educational materials when they are ready and authorized for release.
 
 <!-- TODO: Add arXiv author/profile URL only after the exact link is confirmed. -->
